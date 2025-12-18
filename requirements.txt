@@ -1,0 +1,8 @@
+streamlit
+google-cloud-vision
+google-auth
+pillow
+opencv-python-headless
+numpy
+pandas
+pdfplumber
